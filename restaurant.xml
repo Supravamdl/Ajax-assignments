@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<restaurants>
+  <restaurant name="yellow chilli" address="new delhi" lat="47.608940" lng="-122.340141" type="sitdown"/>
+  <restaurant name="green chilli" address="mumbai" lat="47.608940" lng="-122.340141" type="bar"/>
+</restaurants>

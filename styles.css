@@ -1,0 +1,13 @@
+.heading {
+  color: rgb(25, 63, 189);
+  text-align: center;
+}
+.sitdown {
+  color: rgb(77, 12, 23);
+}
+.bar {
+  color: rgb(10, 78, 10);
+}
+li {
+  text-transform: uppercase;
+}
